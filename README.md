@@ -1,4 +1,7 @@
 ## Hi there 👋
+### Welcome to my github page
+I am a QA Engineer with expertise in automation frameworks, CI/CD pipelines, passionate about delivering robust and efficient automation solutions.
+- ⚡ Fun fact: In December 1989, Python’s creator Guido Van Rossum was looking for a hobby project to keep him occupied in the week around Christmas. He had been thinking of writing a new scripting language that’d be a descendant of ABC and also appeal to Unix/C hackers. He chose to call it Python.
 
 <!--
 **AlphaAmbush/AlphaAmbush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
